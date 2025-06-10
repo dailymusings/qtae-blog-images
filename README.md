@@ -1,7 +1,3 @@
-아래는 [`qtae-blog-images`](https://github.com/dailymusings/qtae-blog-images) 저장소를 위한 소개 내용을 `README.md` 형식으로 구성한 예시입니다.
-자동 이미지 업로드 방식과 사용한 플러그인도 함께 명시했습니다:
-
-```markdown
 # qtae-blog-images
 
 이 저장소는 [dailymusings.github.io](https://dailymusings.github.io) 블로그에서 사용하는 이미지 파일들을 관리하기 위해 만들어졌습니다.  
@@ -26,7 +22,3 @@
 ---
 
 > 이 저장소는 단독 실행 목적이 아닌, 블로그 운영을 위한 이미지 저장 전용 공간입니다.
-```
-
-필요에 따라 저장소 이름이나 Obsidian 설정 방식, 개인화된 워크플로우를 추가로 설명할 수 있습니다.
-원하시면 `.obsidian/plugins/`에 설정하는 `config.json` 예시도 만들어드릴 수 있어요.
